@@ -1,0 +1,15 @@
+github.com/elazarl/goproxy v0.0.0-20221015165544-a0805db90819 h1:RIB4cRk+lBqKK3Oy0r2gRX4ui7tuhiZq2SuTtTCi0/0=
+github.com/elazarl/goproxy v0.0.0-20221015165544-a0805db90819/go.mod h1:Ro8st/ElPeALwNFlcTpWmkr6IoMFfkjXAvTHpevnDsM=
+github.com/elazarl/goproxy/ext v0.0.0-20190711103511-473e67f1d7d2/go.mod h1:gNh8nYJoAm43RfaxurUnxr+N1PwuFV3ZMl/efxlIlY8=
+github.com/elazarl/goproxy/ext v0.0.0-20221015165544-a0805db90819 h1:PBc3oUutXxwCibSLQCmpunGvruDnoS6kdnaL7a0xwKY=
+github.com/elazarl/goproxy/ext v0.0.0-20221015165544-a0805db90819/go.mod h1:gNh8nYJoAm43RfaxurUnxr+N1PwuFV3ZMl/efxlIlY8=
+github.com/gofrs/uuid v4.0.0+incompatible h1:1SD/1F5pU8p29ybwgQSwpQk+mwdRrXCYuPhW6m+TnJw=
+github.com/gofrs/uuid v4.0.0+incompatible/go.mod h1:b2aQJv3Z4Fp6yNu3cdSllBxTCLRxnplIgP/c0N/04lM=
+github.com/jcuga/golongpoll v1.3.0 h1:00lQC7C1a/4YcGnWcdWi1YzJYfat1Hal2+Cnlvgyado=
+github.com/jcuga/golongpoll v1.3.0/go.mod h1:1ijFh83w68ylU44F+xSEyrXChP/7NnoAvgCVHWMggWA=
+github.com/jcuga/proxyblock v0.1.1-alpha h1:yjSmvoxKXG+d5Yaqtrh3hPdjpji+9Nhy/JyULqo4m5o=
+github.com/jcuga/proxyblock v0.1.1-alpha/go.mod h1:Ewx7/0Xxkyz8Vw7hQTEvN2BzQC/0cchRsphZCtV7PP4=
+github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d h1:VhgPp6v9qf9Agr/56bj7Y/xa04UccTW04VP0Qed4vnQ=
+github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d/go.mod h1:YUTz3bUH2ZwIWBy3CJBeOBEugqcmXREj14T+iG/4k4U=
+github.com/rogpeppe/go-charset v0.0.0-20180617210344-2471d30d28b4 h1:BN/Nyn2nWMoqGRA7G7paDNDqTXE30mXGqzzybrfo05w=
+github.com/rogpeppe/go-charset v0.0.0-20180617210344-2471d30d28b4/go.mod h1:qgYeAmZ5ZIpBWTGllZSQnw97Dj+woV0toclVaRGI8pc=
